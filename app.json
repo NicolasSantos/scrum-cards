@@ -1,0 +1,12 @@
+{
+  "name": "scrum-cards",
+  "displayName": "scrum-cards",
+  "expo": {
+    "name": "scrum-cards",
+    "slug": "scrum-cards",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
